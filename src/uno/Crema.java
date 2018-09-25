@@ -27,7 +27,7 @@ public class Crema extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().append("Served atvf: t").append(request.getContextPath());
+		response.getWriter().append("Served 1 atvf: t").append(request.getContextPath());
 	}
 
 	/**
